@@ -1,0 +1,7 @@
+{
+  "env": {
+    "DB_USER": "todo",
+    "DB_PASSWORD": "20957463",
+    "DB_NAME": "TDB"
+  }
+}
