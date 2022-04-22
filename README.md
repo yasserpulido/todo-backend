@@ -1,6 +1,7 @@
-# todo-backend
-Todo backend with node.js
+# The Backend is in Heroku
 
-To run the backend:
+The backend was hosted with Heroku (https://todo-app-blast.herokuapp.com).
+
+## Manually run
 
 enter "npm start" to start.
